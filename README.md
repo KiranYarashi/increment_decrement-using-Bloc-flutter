@@ -1,16 +1,33 @@
-# bloc
+# Counter Application using Bloc in Flutter
 
-A new Flutter project.
+This is a simple counter application built using Flutter and the Bloc library for state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- An IDE like VS Code or Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   git clone https://github.com/KiranYarashi/increment_decrement-using-Bloc-flutter.git
+   
+3. Navigate to the project directory:
+   cd increment_decrement-using-Bloc-flutter
+   
+3. Get the dependencies:
+   flutter pub get
+   
+4. Run the app:
+  flutter run
+
+##Usage
+The app has a simple interface with a counter display and two buttons for incrementing and decrementing the counter.
+
+##Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
